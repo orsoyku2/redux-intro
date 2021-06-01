@@ -1,0 +1,31 @@
+.books{
+    display:flex;
+    border:1px solid slateblue;
+    flex-direction: row;
+
+}
+.button{
+    width: 100px;
+    background-color:yellowgreen;
+    color: #fff;
+    height: 30px;
+    border: none;
+    margin-bottom: 10px;
+    cursor:pointer;
+}
+.button:hover{
+    background-color: #fff;
+    color:yellowgreen;
+
+}
+.bookImage{
+    width: auto;
+    height: 200px;
+    width:200px;
+    margin:15px
+}
+.bookItems{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

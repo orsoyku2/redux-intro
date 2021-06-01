@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 80px;
+    background-color:slateblue
+   
+}
+.link{
+    padding:5px;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 25px;
+    color:yellowgreen
+}
